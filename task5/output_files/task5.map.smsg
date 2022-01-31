@@ -1,0 +1,8 @@
+Info (10281): Verilog HDL Declaration information at datapath.sv(13): object "P1" differs only in case from object "p1" in the same scope File: C:/Users/liandi/Desktop/CPEN311/LAB1/task5/datapath.sv Line: 13
+Info (10281): Verilog HDL Declaration information at datapath.sv(14): object "P2" differs only in case from object "p2" in the same scope File: C:/Users/liandi/Desktop/CPEN311/LAB1/task5/datapath.sv Line: 14
+Info (10281): Verilog HDL Declaration information at datapath.sv(15): object "P3" differs only in case from object "p3" in the same scope File: C:/Users/liandi/Desktop/CPEN311/LAB1/task5/datapath.sv Line: 15
+Info (10281): Verilog HDL Declaration information at datapath.sv(16): object "D1" differs only in case from object "d1" in the same scope File: C:/Users/liandi/Desktop/CPEN311/LAB1/task5/datapath.sv Line: 16
+Info (10281): Verilog HDL Declaration information at datapath.sv(17): object "D2" differs only in case from object "d2" in the same scope File: C:/Users/liandi/Desktop/CPEN311/LAB1/task5/datapath.sv Line: 17
+Info (10281): Verilog HDL Declaration information at datapath.sv(18): object "D3" differs only in case from object "d3" in the same scope File: C:/Users/liandi/Desktop/CPEN311/LAB1/task5/datapath.sv Line: 18
+Warning (10268): Verilog HDL information at dealcard.sv(8): always construct contains both blocking and non-blocking assignments File: C:/Users/liandi/Desktop/CPEN311/LAB1/task5/dealcard.sv Line: 8
+Warning (10268): Verilog HDL information at statemachine.sv(23): always construct contains both blocking and non-blocking assignments File: C:/Users/liandi/Desktop/CPEN311/LAB1/task5/statemachine.sv Line: 23

@@ -1,0 +1,298 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/19.1
+vcard7seg
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1643616807
+!i10b 1
+!s100 KcmmMa]ed1k7;:]MonL6E2
+I4UCO@7GIXU58GFOLOQI:U0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 card7seg_sv_unit
+S1
+Z3 dC:/Users/liandi/Desktop/CPEN311/LAB1/task5
+w1643397375
+8C:/Users/liandi/Desktop/CPEN311/LAB1/task5/card7seg.sv
+FC:/Users/liandi/Desktop/CPEN311/LAB1/task5/card7seg.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1643616807.000000
+!s107 C:/Users/liandi/Desktop/CPEN311/LAB1/task5/card7seg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/liandi/Desktop/CPEN311/LAB1/task5/card7seg.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vdatapath
+R0
+R1
+!i10b 1
+!s100 ;9KfJmN?g@gQ9deb[dRPO0
+I8n=gJYTYKPTG=bTN78R173
+R2
+Z8 !s105 datapath_sv_unit
+S1
+R3
+Z9 w1643616389
+Z10 8C:\Users\liandi\Desktop\CPEN311\LAB1\task5\datapath.sv
+Z11 FC:\Users\liandi\Desktop\CPEN311\LAB1\task5\datapath.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+Z12 !s107 C:\Users\liandi\Desktop\CPEN311\LAB1\task5\datapath.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\liandi\Desktop\CPEN311\LAB1\task5\datapath.sv|
+!i113 1
+R6
+R7
+vdealcard
+R0
+R1
+!i10b 1
+!s100 >X6`;aT6_enM6FE=:`H?z3
+I9PV5D2X8DSBloXKD9AU]L0
+R2
+!s105 dealcard_sv_unit
+S1
+R3
+Z14 w1642482650
+8C:/Users/liandi/Desktop/CPEN311/LAB1/task5/dealcard.sv
+FC:/Users/liandi/Desktop/CPEN311/LAB1/task5/dealcard.sv
+L0 4
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/liandi/Desktop/CPEN311/LAB1/task5/dealcard.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/liandi/Desktop/CPEN311/LAB1/task5/dealcard.sv|
+!i113 1
+R6
+R7
+vreg4
+R0
+R1
+!i10b 1
+!s100 PO=FQPZ1Vo4fW5fV^Yl1Q3
+I?f<>hSicoL:NRDaF4@gY]1
+R2
+R8
+S1
+R3
+R9
+R10
+R11
+L0 31
+R4
+r1
+!s85 0
+31
+R5
+R12
+R13
+!i113 1
+R6
+R7
+vscorehand
+R0
+R1
+!i10b 1
+!s100 Ja`mCG@V=P[hjFET_chWz2
+IbjN`]zTV8b2`S<8COAYDn0
+R2
+!s105 scorehand_sv_unit
+S1
+R3
+w1643369712
+8C:/Users/liandi/Desktop/CPEN311/LAB1/task5/scorehand.sv
+FC:/Users/liandi/Desktop/CPEN311/LAB1/task5/scorehand.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/liandi/Desktop/CPEN311/LAB1/task5/scorehand.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/liandi/Desktop/CPEN311/LAB1/task5/scorehand.sv|
+!i113 1
+R6
+R7
+vstatemachine
+R0
+R1
+!i10b 1
+!s100 U[fd2hE9MUmmI4lb_3B3^3
+I@1ZVJoU`:GRW1b?_ee=iP3
+R2
+!s105 statemachine_sv_unit
+S1
+R3
+w1643616467
+8C:/Users/liandi/Desktop/CPEN311/LAB1/task5/statemachine.sv
+FC:/Users/liandi/Desktop/CPEN311/LAB1/task5/statemachine.sv
+L0 15
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/liandi/Desktop/CPEN311/LAB1/task5/statemachine.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/liandi/Desktop/CPEN311/LAB1/task5/statemachine.sv|
+!i113 1
+R6
+R7
+vtask5
+R0
+R1
+!i10b 1
+!s100 C]D5^WRA7B69SoQSQG^VG2
+Ic]40ek5WS>fnLfSd]Pc2[0
+R2
+!s105 task5_sv_unit
+S1
+R3
+R14
+8C:/Users/liandi/Desktop/CPEN311/LAB1/task5/task5.sv
+FC:/Users/liandi/Desktop/CPEN311/LAB1/task5/task5.sv
+L0 5
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/liandi/Desktop/CPEN311/LAB1/task5/task5.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/liandi/Desktop/CPEN311/LAB1/task5/task5.sv|
+!i113 1
+R6
+R7
+vtb_card7seg
+R0
+!s110 1642838944
+!i10b 1
+!s100 c9SFkb<?RiI@Iabj_e^SG2
+IZJdCoWXof5O=E[8Zo2O^20
+R2
+!s105 tb_card7seg_sv_unit
+S1
+R3
+w1642573584
+8C:/Users/liandi/Desktop/CPEN311/LAB1/task1/tb_card7seg.sv
+FC:/Users/liandi/Desktop/CPEN311/LAB1/task1/tb_card7seg.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1642838944.000000
+!s107 C:/Users/liandi/Desktop/CPEN311/LAB1/task1/tb_card7seg.sv|
+!s90 -reportprogress|300|-work|work|C:/Users/liandi/Desktop/CPEN311/LAB1/task1/tb_card7seg.sv|
+!i113 1
+o-work work
+R7
+vtb_datapath
+R0
+R1
+!i10b 1
+!s100 BSL<HhcD=SIaLjKAZOj];0
+I6[KlaX[7NVB;=b7E<cJJ22
+R2
+!s105 tb_datapath_sv_unit
+S1
+R3
+w1643403681
+8C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_datapath.sv
+FC:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_datapath.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_datapath.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_datapath.sv|
+!i113 1
+R6
+R7
+vtb_scorehand
+R0
+R1
+!i10b 1
+!s100 >l1eXQe:RDES08A35MSQz1
+IBBcmPWgo=OOW<CSUb]^El0
+R2
+!s105 tb_scorehand_sv_unit
+S1
+R3
+w1642838463
+8C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_scorehand.sv
+FC:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_scorehand.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_scorehand.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_scorehand.sv|
+!i113 1
+R6
+R7
+vtb_statemachine
+R0
+Z15 !s110 1643616808
+!i10b 1
+!s100 GznZKAKV?AgC`@UPZ8CU90
+IGbAQD5<;OQ_g]ciWUK>oc3
+R2
+!s105 tb_statemachine_sv_unit
+S1
+R3
+w1643615049
+8C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_statemachine.sv
+FC:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_statemachine.sv
+L0 14
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_statemachine.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_statemachine.sv|
+!i113 1
+R6
+R7
+vtb_task5
+R0
+R15
+!i10b 1
+!s100 CB>?mGCa6N]kCIT>XzQ>R0
+IK<>BNMDh]lgOQLYX<A4mb0
+R2
+!s105 tb_task5_sv_unit
+S1
+R3
+w1643615465
+8C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_task5.sv
+FC:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_task5.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1643616808.000000
+!s107 C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_task5.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/liandi/Desktop/CPEN311/LAB1/task5/tb_task5.sv|
+!i113 1
+R6
+R7
